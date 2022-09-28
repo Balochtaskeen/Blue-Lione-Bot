@@ -13,13 +13,13 @@ global.APIKeys = {
 
 
 global.OWNER_REACT = '🧑🏻‍💻'
-global.REACT_NUMBER = '94714188730'
+global.REACT_NUMBER = '923216740469'
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = false //auto reading in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
+global.autoReadGc = true //auto reading in gc (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //semt menu variants
@@ -34,23 +34,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94714188730'] //ur owner number
-global.ownername = "NIPUNA " //ur owner name
-global.ytname = "YT: Nipuna-apps" //ur yt chanel name
-global.socialm = "GitHub: Nipuna-apps" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['923216740469'] //ur owner number
+global.ownername = "Taskeen official 03216740469 " //ur owner name
+global.ytname = "YT:https://youtube.com/channel/UCU0qqOnN46MADk3AzGUe_bQ " //ur yt chanel name
+global.socialm = "GitHub: Taskeen official" //ur github or insta name
+global.location = "Pakistan, Ryk" //ur location
 
 //bot bomdy 
-global.owner = ['714188730']
-global.ownertag = '714188730' //ur tag number
-global.botname = '⚜𝓑𝓵𝓾𝓮 𝓛𝓲𝓸𝓷𝓮⚜' //ur bot name
-global.linkz = "https://github.com/Nipuna-apps/Blue-Lione-Bot.git" //your theme url which will be displayed on whatsapp
-global.websitex = "https://github.com/Nipuna-apps/Blue-Lione-Bot.git" //ur website to be displayed
-global.botscript = 'https://github.com/Nipuna-apps/Blue-Lione-Bot.git' //script link
+global.owner = ['923216740469']
+global.ownertag = '923216740469' //ur tag number
+global.botname = 'Taskeen official⚜' //ur bot name
+global.linkz = "https://youtube.com/channel/UCU0qqOnN46MADk3AzGUe_bQ" //your theme url which will be displayed on whatsapp
+global.websitex = " https://youtube.com/channel/UCU0qqOnN46MADk3AzGUe_bQ " //ur website to be displayed
+global.botscript = 'https://youtube.com/channel/UCU0qqOnN46MADk3AzGUe_bQ' //script link
 global.reactmoji = "❤" //ur menu react emoji
 global.themeemoji = "🎸" //ur theme emoji
-global.packname = "⚜𝓑𝓵𝓾𝓮 𝓛𝓲𝓸𝓷𝓮⚜ Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "NIPUNA" //ur sticker watermark author
+global.packname = "⚜Taskeen official 03216740469⚜ Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.author = "Taskeen Baloch 03216740469" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -59,7 +59,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['714188730'] //ur premium numbers
+global.premium = ['923216740469'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
