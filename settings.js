@@ -38,7 +38,7 @@ global.vcardowner = ['923216740469'] //ur owner number
 global.ownername = "Taskeen official " //ur owner name
 global.ytname = "YT: Taskeen Official" //ur yt chanel name
 global.socialm = "GitHub: Nipuna-apps" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.location = "Pakistan,RYk" //ur location
 
 //bot bomdy 
 global.owner = ['923216740469']
@@ -46,7 +46,7 @@ global.ownertag = '923216740469' //ur tag number
 global.botname = '⚜Taskeen Official⚜' //ur bot name
 global.linkz = "https://github.com/Nipuna-apps/Blue-Lione-Bot.git" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/Nipuna-apps/Blue-Lione-Bot.git" //ur website to be displayed
-global.botscript = 'https://github.com/Nipuna-apps/Blue-Lione-Bot.git' //script link
+global.botscript = 'https://heroku.com/Nipuna-apps/Blue-Lione-Bot.git' //script link
 global.reactmoji = "❤" //ur menu react emoji
 global.themeemoji = "🎸" //ur theme emoji
 global.packname = "⚜Taskeen official 03216740469⚜ Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
