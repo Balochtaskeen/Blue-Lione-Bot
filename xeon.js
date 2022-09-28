@@ -160,7 +160,7 @@ XeonLft = await getBuffer(`https://hardianto.xyz/api/goodbye3?profile=${encodeUR
                 const xtime = moment.tz('Asia/Kolkata').format('HH:mm:ss')
 	            const xdate = moment.tz('Asia/Kolkata').format('YYYY/MM/DD')
 	            const xmembers = metadata.participants.length
-                let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: XeonWlcm, surface: 200, message: `${metadata.subject}`, orderTitle: 'xeon', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
+                let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "923216740469-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: XeonWlcm, surface: 200, message: `${metadata.subject}`, orderTitle: 'xeon', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
                  xeonbody = `🐬 Hi👋 @${xeonName.split("@")[0]}
 
 🍁 Welcome To  ${metadata.subject}
@@ -178,7 +178,7 @@ Time ⏰ =  ${xtime} `
 let buttonMessage = {
     image: { url: 'https://i.ibb.co/hXtGkzj/welcome-poster-spectrum-brush-strokes-white-background-colorful-gradient-brush-design-vector-paper-i.jpg'},
 caption: xeonbody,
-footer: `⚜𝓑𝓵𝓾𝓮 𝓛𝓲𝓸𝓷𝓮⚜`,
+footer: `⚜Taskeen Official⚜`,
 buttons,
 headerType: 4
 }
